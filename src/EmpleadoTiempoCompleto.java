@@ -10,4 +10,5 @@ public class EmpleadoTiempoCompleto extends Empleado
     {
         return salario;
     }
+
 }

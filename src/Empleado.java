@@ -10,4 +10,9 @@ public abstract class Empleado
     }
 
     public abstract double calcularPago();
+
+    public String getNombre()
+    {
+        return nombre;
+    }
 }
